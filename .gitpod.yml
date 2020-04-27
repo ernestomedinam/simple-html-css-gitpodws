@@ -1,5 +1,5 @@
 tasks:
   - init: echo "start coding, basic html + css!"
-    command: "live-server --no-browser"
+    command: "live-server"
 image:
   file: .gitpod.Dockerfile
